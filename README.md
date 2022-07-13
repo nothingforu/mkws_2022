@@ -1,2 +1,2 @@
-# mkws_2022
+# Projekty jakieś
 IlyaShymialevich
